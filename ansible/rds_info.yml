@@ -1,0 +1,4 @@
+db_hostname: nw-rds.cudb19ur4rzt.us-west-2.rds.amazonaws.com
+db_name: nwansible
+db_username: admin
+db_password: password
