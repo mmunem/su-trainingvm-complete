@@ -39,7 +39,7 @@ vagrantfile:
                     - '--hiera_config /vagrant/puphpet/puppet/hiera.yaml'
         synced_folder:
             vflsf_w8cwu0yhgaqg:
-                source: ~/su-trainingvm/ansible
+                source: ~/su-trainingvm-complete/ansible
                 target: /tmp/ansible
                 sync_type: nfs
                 smb:
